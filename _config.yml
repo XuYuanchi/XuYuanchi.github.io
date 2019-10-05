@@ -1,5 +1,6 @@
 title: Résumé
-baseurl: "/resume/"
+baseurl: ""
+url: "https://xuyuanchi.github.io/"
 exclude:
   - README.md
   - "README_zh-CN.md"
